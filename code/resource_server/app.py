@@ -24,6 +24,8 @@ def init_state(num_keys):
     keys_state["get_user"] = ResourceAllocator(num_keys, time_window=905, window_limit=900)
     keys_state["get_user_tweets"] = ResourceAllocator(num_keys, time_window=925, window_limit=900)
 
+#flask decorator
+
 
 @app.route('/get-keys', methods=['GET'])
 def get_key_index():

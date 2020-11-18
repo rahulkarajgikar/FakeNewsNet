@@ -1,8 +1,32 @@
 [
   {
-    "app_key": "",
-    "app_secret": "",
-    "oauth_token": "",
-    "oauth_token_secret": ""
+    "app_key": "A9rtjJc2MseFPA3EubgovWIsb",
+    "app_secret": "1dm8QvGyyDv9D8JfepQVWpXxdiUXEWVdhxmVPQevkJzJz8uMm6",
+    "oauth_token": "1950049980-L7ICrZcadDj36rPTZSeFDWLoz8iMs6RIzlgJ1uP",
+    "oauth_token_secret": "OQozoTNP7v0CAKliVmVhxPC6jZMAd3RVp0bBMirb9p6M3"
+  },
+  {
+    "app_key": "YtaNmMN50rfanBfWKkrKoTKHN",
+    "app_secret": "dqI0155dJwtFufBpxpqs12uf5JxFnAbPQs7EuMIhxalLdnUxg7",
+    "oauth_token": "1267647720245694464-f03ZXGT52eJRSKkths6wogWSRGNIgE",
+    "oauth_token_secret": "qMqrPg3TiShfREHfMiDYgAn1j0czk48dUgiSon9zNJwDl"
+  },
+  {
+    "app_key": "TJFAOcbHcr9DnjDlE7HgcDOi3",
+    "app_secret": "gwK8D1itSa4VwPd7zStctuFlOoN8EEueBlnO7UQLDnYcPQ7bbx",
+    "oauth_token": "1050803850-C52W4szTTzLT1vC3x5dYnbrTXFfmaAyLTcuAGq2",
+    "oauth_token_secret": "JfBuu6fuVJO4RBPCn8KLMoG3htr3GXL3Z1lE4dvQVWGLf"
+  },
+  {
+    "app_key": "lLSvhewssN8Uzfw0Uz7dnEymr",
+    "app_secret": "qT0pwj2Ui1TyYV4hPniiOXc2jS2q8rWRoe6N2UkFJAvtS8MCpX",
+    "oauth_token": "3029898171-qys8tJlLb0snZMnDwrqi82P9xJneRshjdrj70Jm",
+    "oauth_token_secret": "IDXNhUrtuOIFtEilXB169ATGQJKDbIKQYhjcKz2aCmtEc"
+  },
+  {
+    "app_key": "ESVFv11jza7JsqDBysOZe49qE",
+    "app_secret": "HeQ1g8PF8176EiVXwlhAPNbOp2JKa2KjY4bLszCMGen8Oirtyt",
+    "oauth_token": "970898154122956800-B5779WcrEBe0pmpimbRWzCfOrw9wYBN",
+    "oauth_token_secret": "GD5It9toauEv98WtegPdLcO5T6i2SB94FFGe80tHMU6wc"
   }
 ]

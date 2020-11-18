@@ -208,4 +208,3 @@ If you use this dataset, please cite the following papers:
 [FakeNewsNet]:<https://arxiv.org/abs/1809.01286>
 
 (C) 2019 Arizona Board of Regents on Behalf of ASU
-
